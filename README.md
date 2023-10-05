@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerzyLesniak
-- 👀 I’m interested in coding, electronics, drones, changeing the world
-- 🌱 I’m currently learning Flutter/Firebase and creating my own app but its big... im planning to finish MVP in this year!
+- 👀 I’m interested in coding, electronics, drones and woodworking
+- 🌱 I’m currently learning Flutter/Firebase and creating my own app
 - 💞️ I’m looking to collaborate on React, React Native, Flutter, Serios problem solving
 - 📫 How to reach me jerzy.karol.lesniak@gmail.com
 
